@@ -1,0 +1,65 @@
+
+.about {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.idlinks {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 35px;
+    width: 35px;
+}
+
+.custom{
+    width: 120px !important;
+    transform: translate(12%,0);
+}
+
+.links {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.edu {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);    
+}
+
+.card{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+#hi {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+
+.card-title{
+    text-align: center;
+}
+
+body {
+    background-color: #ff3747;
+}
+
+#bg {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
